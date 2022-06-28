@@ -80,6 +80,7 @@ module.exports = {
         '@': resolve('src')
       }
     },
+    assetsPublicPath: '/hritems/',
     // 排除打包
     externals
   },
